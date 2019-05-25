@@ -1,11 +1,11 @@
 {
   "name": "mcr-cli-app",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple app that when run inside a folder creates an MCR structure and installs development dependencies.",
   "main": "index.js",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/nikhilgurnani/mcr-cli-app"
+    "type": "git",
+    "url": "https://github.com/nikhilgurnani/mcr-cli-app"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
